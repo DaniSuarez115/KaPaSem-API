@@ -39,6 +39,11 @@ h1{
       }
   
       
-      .list-group-item:hover {
+.list-group-item:hover {
         background-color: #0bb892; /* Puedes cambiar el color a tu gusto */
       }
+#contenido{
+    margin-top: 20px;
+    box-shadow: 8px 5px 9px 5px;
+}
+    
