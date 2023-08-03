@@ -56,7 +56,15 @@
         <h1>Bienvenido a la API de KaPaSem</h1>
     </div>
     <div class="BodyMain">
-        <!-- Contenido del cuerpo principal -->
+        <div class="ContenedorMicroServicios">
+          <!-- Horizontal under breakpoint -->
+          <ul class="list-group list-group-horizontal-lg">
+            <li class="list-group-item">Agreagr Usuarios</li>
+            <li class="list-group-item">Listar Usuarios</li>
+            <li class="list-group-item">Editar Usuarios</li>
+            <li class="list-group-item">Eliminar Usuarios</li>
+            </ul>
+        </div>
     </div>
 </main>
 
