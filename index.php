@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>Title</title>
+  <title>KaPaSem</title>
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -25,7 +25,7 @@
        <div class="collapse navbar-collapse" id="collapsibleNavId">
            <ul class="navbar-nav me-auto mt-2 mt-lg-0">
                <li class="nav-item">
-                   <a class="nav-link active" href="#" aria-current="page">Home <span class="visually-hidden">(current)</span></a>
+                   <a class="nav-link active" href="index.php" aria-current="page">Home <span class="visually-hidden">(current)</span></a>
                </li>
            
            </ul>
@@ -52,7 +52,7 @@
           <!-- Horizontal under breakpoint -->
           <ul class="list-group list-group-horizontal-lg">
             <li class="list-group-item">Agreagr Usuarios</li>
-            <li class="list-group-item">Listar Usuarios</li>
+            <a href="listarUsuarios.php" class="list-group-item">Listar Usuarios</a > 
             <li class="list-group-item">Editar Usuarios</li>
             <li class="list-group-item">Eliminar Usuarios</li>
             </ul>
